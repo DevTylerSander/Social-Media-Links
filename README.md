@@ -1,3 +1,5 @@
+<img width="1882" height="1022" alt="fully_customized" src="https://github.com/user-attachments/assets/76288b5e-f56f-4ce8-86a0-16bbf479868f" />
+
 # Social Media Profile Page
 
 A lightweight, customizable **Link-in-Bio style profile page** built with pure HTML, CSS, and JavaScript.  
@@ -100,4 +102,5 @@ Simply upload the files.
 
 ## License
 
-Free to use, modify, and distribute.
+Free to use, modify,
+ and distribute.
